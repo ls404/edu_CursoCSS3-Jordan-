@@ -1,10 +1,22 @@
+body {
+  margin: 0;
+}
+
 .box {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
 }
 
 .box1 {
+  width: 30%;
   background: steelblue;
+  margin: 1px;
 }
 
 .box2 {
+  opacity: 0.5;
   background-color: tomato;
+  margin-top: -27px;
+  padding-top: -6px;
 }
