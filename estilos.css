@@ -8,12 +8,14 @@ body {
 }
 
 .box1 {
+  padding: 1px;
   width: 100%;
   background: steelblue;
   margin-bottom: 50px;
 }
 
 .header {
+  /* padding: 1px; */
   background: gold;
   height: 40px;
   margin-top: 40px;
