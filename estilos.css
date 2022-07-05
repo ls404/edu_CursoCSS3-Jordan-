@@ -3,20 +3,25 @@ body {
 }
 
 .box {
-  border: 1px solid black;
-  padding: 10px;
-  margin: 10px;
+  width: 200px;
+  height: 100px;
 }
 
 .box1 {
-  width: 30%;
+  width: 100%;
   background: steelblue;
-  margin: 1px;
+  margin-bottom: 50px;
+}
+
+.header {
+  background: gold;
+  height: 40px;
+  margin-top: 40px;
 }
 
 .box2 {
   opacity: 0.5;
   background-color: tomato;
-  margin-top: -27px;
+  margin-top: 30px;
   padding-top: -6px;
 }
